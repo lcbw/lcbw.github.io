@@ -1,1 +1,11 @@
+title: Lily Baye-Wallace
+email: lcbw99@gmail.com
+description: personal website for roboticist Lily Baye-Wallace
+github_username: lcbw 
+
+#Build settings
+markdown: kramdown
 theme: jekyll-theme-dinky
+
+
+
