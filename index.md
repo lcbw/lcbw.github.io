@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+---
+layout: page 
+title: home 
+---
 
-You can use the [editor on GitHub](https://github.com/lcbw/lcbw.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Hello, there 
+I'm Lily, a Robotics and Autonomous Systems Masters Student at Arizona State University. I'll be graduating in December having defended my thesis on the development of [A Soft Robotic Hip Exosuit for Rehabiliation and Gait Assistance](https://www.researchgate.net/project/Hip-Exosuit-for-Gait-Rehabilitation/). I'm passionate about using robotics to improve our world - creating safer working conditions, exploring dangerous environments, improving surgical outcomes, and advancing rehabilitation capabilities. 
+When I'm not in the lab, you'll likely find me hiking, trying out local restaurants, or salsa dancing (or teaching it!).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Contact Me 
 ```markdown
-Syntax highlighted code block
+Email: [lcbw99@gmail.com](lcbw99@gmail.com/)
 
-# Header 1
-## Header 2
-### Header 3
+Instagram: @engineer_a_better_future 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lcbw/lcbw.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
