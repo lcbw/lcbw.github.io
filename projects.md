@@ -1,5 +1,5 @@
 layout: page
-title: Projects
-markdown: kramdown
+title: "Projects"
+permalink: /projects/
 
 This is essentailly my portfolio, hot damn okay 
