@@ -9,4 +9,8 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 
 
+plugins:
+  - jekyll-tabs
+
+
 
