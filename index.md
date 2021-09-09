@@ -5,7 +5,7 @@ When I'm not in the lab, you'll likely find me hiking, trying out local restaura
 
 ### Contact Me 
 ```markdown
-Email: [lcbw99@gmail.com](lcbw99@gmail.com/)
+Email: [lcbw99@gmail.com](lcbw99@gmail.com/).
 
 Instagram: @engineer_a_better_future 
 
